@@ -1,5 +1,7 @@
 # PROJECT: Basic informational site by NODE.js
 
+[![Run on Repl.it](https://repl.it/badge/github/othman-19/Basic_informational_site_Node.js)](https://repl.it/github/othman-19/Basic_informational_site_Node.js)
+
 This project is basic informational site that contains 4 pages: index, about, contact-me and 404.
 
 It contains a node.js server file index.js which serve the right page according to the url.
