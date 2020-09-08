@@ -8,7 +8,7 @@ It contains a node.js server file index.js which serve the right page according 
 
 ## Live Demo
 
-[Live Demo Link]() .
+[Live Demo Link](https://repl.it/@othman19/BasicinformationalsiteNodejs#README.md) .
 
 ## Built With
 - Node.
@@ -21,13 +21,30 @@ It contains a node.js server file index.js which serve the right page according 
 
 - 404.html should display any time the user tries to go to a page not listed above.
 
+- It runs on Repl.it real server.
+
 ### Prerequisites
 
 1. Git.
 2. Code editor.
 3. browser.
+4. Node.
 
 ## How to run the program
+### first: On Repl.it:
+
+1. Click on the [Live Demo Link](https://repl.it/repls/LittleLowFreesoftware#README.md) .
+
+2. Click the “Run” button and you should get the URL to your demo in the URL bar of the repl’s web view.
+
+3. Take that url and open it in a new tab(window),it should display the index page.
+
+
+4. Change the url by adding `/contact-me` or `/about` at the end.
+
+5. Change the url by adding other words than `/contact-me` or `/about` to 404.html page displayed.
+
+### Second: on your local machine:
 
 1. Open your terminal.
 
