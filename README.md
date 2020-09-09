@@ -12,6 +12,7 @@ It contains a node.js server file index.js which serve the right page according 
 
 ## Built With
 - Node.
+- Express.js
 - Npm.
 - Html.
 
@@ -31,6 +32,7 @@ It contains a node.js server file index.js which serve the right page according 
 4. Node.
 
 ## How to run the program
+
 ### first: On Repl.it:
 
 1. Click on the [Live Demo Link](https://repl.it/repls/LittleLowFreesoftware#README.md) .
@@ -56,7 +58,7 @@ It contains a node.js server file index.js which serve the right page according 
 
 5. Run `npm install` in your terminal.
 
-6. Run `node index.js` in your terminal.
+6. Run `node index.js` or `node app.js` in your terminal.
 
 7. In your browser try these urls: `localhost:8080`,
 `localhost:8080/about`, `localhost:8080/contact-me`.
